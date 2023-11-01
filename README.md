@@ -1,8 +1,7 @@
 # ISC-Web
 This is web page for ISC Missouri S&amp;T
 
-NewFrame.html , test.html, testNew.html are sample pages , You may use these files as resource , These are practice webpages 
-code from these can be used to if needed
+NewFrame.html , test.html, testNew.html are sample pages 
 
 Main Page : index.html
     This is html , css and bootstrap 
